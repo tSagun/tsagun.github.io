@@ -3,9 +3,11 @@
 @import "{{ site.theme }}";
 
 p {
-  font-size: 48px
+  font-size: 48px;
+  color: red;
 }
 
 h1 {
-  font-size: 72px
+  font-size: 72px;
+  color: blue;
 }
